@@ -1,6 +1,9 @@
 {
   "name": "SnapNResolve",
   "description": "Snap it. Report it. Get it fixed. AI-prioritized campus and community issue tracker.",
-  "requestFramePermissions": ["camera", "geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
 }
